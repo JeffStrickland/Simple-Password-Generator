@@ -1,4 +1,6 @@
-# Random passowrd generator with gui
+# Random passwordd generator with gui
+# GUI with tkinter
+# Python 3
 
 import random, string
 from tkinter import *
