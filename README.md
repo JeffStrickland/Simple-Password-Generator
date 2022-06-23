@@ -1,6 +1,7 @@
 # Simple-Password-Generator
-## Simple Random Password Generator with GUI
-###    - Python 3
-###    - GUI with tkinter
-###    - User can select password length, combination of characters to include
-###    - Copy to clipboard feature
+
+This is a simple random password generator using a GUI built with tkinter.
+Users can select from options for password length and a combination of characters to include in the password.
+A copy to clipboard feature is also included.
+
+Python 3
